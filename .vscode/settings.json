@@ -1,0 +1,6 @@
+{
+  "sonarlint.connectedMode.project": {
+    "connectionId": "test-sw-quality",
+    "projectKey": "Test-SW-Quality_demo-js-project"
+  }
+}
