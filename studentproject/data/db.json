@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "id": "5e14",
+      "title": "INT203: Presentation Midterm II",
+      "description": "Test",
+      "location": "LX11/1-2",
+      "startDateTime": "2024-04-04T21:00:00",
+      "endDateTime": "2024-04-04T22:15:00",
+      "owner": "281b"
+    },
+    {
+      "id": "a133",
+      "title": "INT204: Server Side Exam Midterm II",
+      "description": "Test",
+      "location": "LX11",
+      "startDateTime": "2024-04-05T16:45:00",
+      "endDateTime": "2024-04-05T17:00:00",
+      "owner": "281b"
+    },
+    {
+      "id": "de0e",
+      "title": "INT208: Network II",
+      "description": "sdasdsa",
+      "location": "asds",
+      "startDateTime": "2024-04-19T16:45:00",
+      "endDateTime": "2024-04-19T17:00:00",
+      "owner": "281b"
+    },
+    {
+      "id": "429d",
+      "title": "TEST",
+      "description": "none",
+      "location": "TEST",
+      "startDateTime": "2024-04-03T18:15:00",
+      "endDateTime": "2024-04-03T18:30:00",
+      "owner": "281b"
+    }
+  ],
+  "users": [
+    {
+      "id": "281b",
+      "username": "admin",
+      "password": "TKUA VS HZKEYSFQAG",
+      "isActive": false
+    },
+    {
+      "id": "68c3",
+      "username": "DUMMY",
+      "password": "IGAK EG VQ2BNOLAJU",
+      "isActive": false
+    }
+  ]
+}
